@@ -22,8 +22,8 @@
     "email": "wio@psitrax.de",
     "url": "http://4wardmedia.de/"
   },
-  dependencies: {},
-  devDependencies: {},
+  "dependencies": {},
+  "devDependencies": {},
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/psi-4ward/express-virtual-request/issues"
