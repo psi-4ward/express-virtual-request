@@ -1,0 +1,32 @@
+{
+  "name": "express-virtual-request",
+  "version": "1.0.0",
+  "description": "run virtual requests against express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psi-4ward/express-virtual-request.git"
+  },
+  "keywords": [
+    "express",
+    "express.js",
+    "mock",
+    "request",
+    "response"
+  ],
+  "author": {
+    "name": "Christoph Wiechert",
+    "email": "wio@psitrax.de",
+    "url": "http://4wardmedia.de/"
+  },
+  dependencies: {},
+  devDependencies: {},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psi-4ward/express-virtual-request/issues"
+  },
+  "homepage": "https://github.com/psi-4ward/express-virtual-request"
+}
