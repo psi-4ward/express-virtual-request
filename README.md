@@ -57,3 +57,7 @@ var req = new VirtualRequest({
   body: 'content body for POST/PUT requests'
 });
 ```
+
+## License
+
+  [MIT](LICENSE)
